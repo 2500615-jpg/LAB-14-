@@ -1,0 +1,58 @@
+// Name: Ammanullah | Registration No: 2500615
+// Sample products used by the mini-shop.
+export const products = [
+  {
+    id: 1,
+    title: 'React Handbook',
+    category: 'Books',
+    price: 1800,
+    description: 'A practical guide to React components, hooks, state, and modern front-end development.',
+    emoji: '📘',
+    color: 'blue',
+  },
+  {
+    id: 2,
+    title: 'Wireless Headphones',
+    category: 'Electronics',
+    price: 4500,
+    description: 'Comfortable wireless headphones for study sessions, calls, and music.',
+    emoji: '🎧',
+    color: 'purple',
+  },
+  {
+    id: 3,
+    title: 'JavaScript Essentials',
+    category: 'Books',
+    price: 1500,
+    description: 'Learn JavaScript fundamentals, functions, arrays, objects, and browser programming.',
+    emoji: '📗',
+    color: 'green',
+  },
+  {
+    id: 4,
+    title: 'Desk Lamp',
+    category: 'Accessories',
+    price: 2200,
+    description: 'A minimal LED desk lamp for a comfortable and focused workspace.',
+    emoji: '💡',
+    color: 'orange',
+  },
+  {
+    id: 5,
+    title: 'Mechanical Keyboard',
+    category: 'Electronics',
+    price: 6200,
+    description: 'A responsive keyboard with a clean design for everyday typing and coding.',
+    emoji: '⌨️',
+    color: 'pink',
+  },
+  {
+    id: 6,
+    title: 'Notebook Set',
+    category: 'Accessories',
+    price: 900,
+    description: 'A set of notebooks to organize class notes, ideas, and daily tasks.',
+    emoji: '📒',
+    color: 'yellow',
+  },
+]
